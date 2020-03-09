@@ -1,0 +1,11 @@
+.container{
+    position: relative;
+    border: solid 1px pink;
+    margin: 0 auto;
+}
+.cur-value{
+    border-bottom: solid 1px pink;
+}
+#app{
+    margin: 20px 0;
+}
